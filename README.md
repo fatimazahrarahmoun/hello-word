@@ -1,2 +1,9 @@
 # hello-wordD
 just a r
+UseTab: Always 
+TabWidth: 8 
+IndentWidth: 8 
+ContinuationIndentWidth: 8
+ColumnLimit: 80
+
+
