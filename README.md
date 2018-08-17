@@ -1,3 +1,3 @@
 # hello-wordD
-# just a r
-# YOU CAN
+# just a r you can
+# you can
